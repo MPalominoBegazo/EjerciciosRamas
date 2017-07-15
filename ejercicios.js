@@ -23,3 +23,12 @@ function Ejercicio2(n){
   }
 }
 Ejercicio2(989);
+
+function Ejercicio6(cad) {
+	//Diana
+  var a = cad.split(" ");
+  for(var i =0; i <a.length; i++)  {
+    }
+ 	 return("Tiene " + i + " palabras.");
+}
+mira("El mundo es tan cruel");
