@@ -25,6 +25,16 @@ function Ejercicio2(n){
 Ejercicio2(989);
 
 
+function Ejercicio6(cad) {
+	//Diana
+  var a = cad.split(" ");
+  for(var i =0; i <a.length; i++)  {
+    }
+ 	 return("Tiene " + i + " palabras.");
+}
+mira("El mundo es tan cruel");
+
+
 
 
 
@@ -48,3 +58,4 @@ function Ejercicio7(arreglo, numero)
 }
 
 document.write(Ejercicio7([938203938, 9287,25938,234,2456],938));
+
